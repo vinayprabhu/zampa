@@ -1,8 +1,7 @@
 
-# Project Ɀ𐌀𐌌𐌓𐌀 <img src="data/logo.png" height="60">
-Ɀ𐌀𐌌𐌓𐌀 : $\color{red}{\textbf{\Large Z}}$ ero-shot  $\color{red}{\textbf{\Large A}}$ nti  $\color{red}{\textbf{\Large M}}$  icrobial  $\color{red}{\textbf{\Large P}}$  eptide generation using  $\color{red}{\textbf{\Large A}}$ rtificial Intelligence
+# Project Ɀ𐌀𐌌𐌓𐌀 <img src="data/logo.png" height="70">
 
-
+Ɀ𐌀𐌌𐌓𐌀 : $\Large{\color{red}\mathbf{Z}}$&#8203;ero-shot $\Large{\color{red}\mathbf{A}}$&#8203;nti $\Large{\color{red}\mathbf{M}}$&#8203;icrobial $\Large{\color{red}\mathbf{P}}$&#8203;eptide generation using $\Large{\color{red}\mathbf{A}}$&#8203;rtificial Intelligence
 # Thoughtflow
 
 - We live in the era of model capability overhang fatigue
